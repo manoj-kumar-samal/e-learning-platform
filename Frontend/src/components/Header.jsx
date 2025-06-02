@@ -14,7 +14,7 @@ const Header = () => {
         <nav>
           {user ? (
             <div className="flex items-center space-x-4">
-              <Link to="/dashboard" className="hover:text-blue-200">Dashboard</Link>
+              <Link to="/dashboard\" className="hover:text-blue-200">Dashboard</Link>
               <button
                 onClick={() => dispatch(logout())}
                 className="bg-blue-700 px-4 py-2 rounded hover:bg-blue-800"
