@@ -15,12 +15,16 @@
     "cloudinary": "^1.41.0",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
+    "emailjs": "^4.0.2",
     "express": "^5.1.0",
+    "firebase-admin": "^11.11.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.15.1",
     "multer": "^1.4.5-lts.1",
     "nodemon": "^3.1.10",
+    "pdfkit": "^0.14.0",
     "socket.io": "^4.7.2",
-    "stripe": "^14.8.0"
+    "stripe": "^14.8.0",
+    "webrtc": "^1.14.1"
   }
 }
